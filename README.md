@@ -1,4 +1,4 @@
-# Spring5-RecipeApplication
+# SpringBoot-RecipeApplication
 Simple Spring application where I practiced Spring Boot. 
 ## About 
 This application is applicaion built in course Spring Framework 5 - Beginner to Guru. 
