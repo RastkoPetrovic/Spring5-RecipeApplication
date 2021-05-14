@@ -1,5 +1,4 @@
 # SpringBoot-RecipeApplication
 Simple Spring application where I was practicing Spring Boot. 
-## About 
-This application is application built in course Spring Framework 5 - Beginner to Guru. 
+## About  
 In this application I was practicing using Hibernate, using Thymeleaf template, using Lombok and connecting to MySQL database. 
